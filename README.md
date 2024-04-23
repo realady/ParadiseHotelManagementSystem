@@ -5,6 +5,17 @@
 ## Project Overview 📝
 Welcome to the Hotel Management System developed for an imaginary hotel Paradise by ADY Industries. This software solution is tailored to streamline operations for hotel administrators and receptionists, aiming to enhance efficiency and elevate the guest experience. Leveraging Java technologies such as AWT, Swing, JDBC, and MySQL, our system offers intuitive management tools and robust functionality.
 
+## How to Run ℹ️
+Follow these steps to run the Hotel Management System:
+1. Make sure you have Java and MySQL installed on your system.
+2. Clone the project repository from [GitHub](https://github.com/not-adarsh/ParadiseHotelManagementSystem.git).
+   ```bash
+   git clone https://github.com/not-adarsh/ParadiseHotelManagementSystem.git
+   ```
+3. Open the project in IntelliJ IDEA.
+4. Navigate to the src directory.
+5. Run `Splash.java` to start the Hotel Management System.
+
 ## Admin Mode 🔧
 Explore Paradise's Admin Mode, providing administrators with comprehensive management tools:
 - User Authentication 🔑
