@@ -36,4 +36,8 @@ Our solution utilizes a powerful technology stack:
 ## Conclusion 🎉
 In conclusion, the Hotel Management System developed for Paradise by Kay Industries offers a tailored solution to optimize hotel operations. With its user-friendly interface and robust functionality, Paradise empowers hotel staff to deliver exceptional service while maximizing efficiency and profitability. Embrace Paradise for efficient hotel management tailored to your needs.
 
+## Presentation Link 🖥️
+[Google Slides Presentation](https://docs.google.com/presentation/d/1CXBNHmlsu5CvXmhhoxdX7aODhZ_r0yxyHl2PSmn3uak/edit?usp=sharing)
+
+
 ## Thank You 🙏
